@@ -10,6 +10,7 @@ packages = [{include = "fast_ai_notebooks"}]
 python = "^3.9"
 duckduckgo-search = "^2.9.5"
 fastai = "^2.7.12"
+jupyter = "^1.0.0"
 
 
 [build-system]
