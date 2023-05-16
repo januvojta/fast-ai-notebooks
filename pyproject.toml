@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "fast-ai-notebooks"
+version = "0.1.0"
+description = ""
+authors = ["Vojta <januvojta@gmail.com>"]
+readme = "README.md"
+packages = [{include = "fast_ai_notebooks"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+duckduckgo-search = "^2.9.5"
+fastai = "^2.7.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
