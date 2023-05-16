@@ -1,0 +1,6 @@
+# IDE's project files
+.idea
+# build output
+build/
+# data folder
+data/
