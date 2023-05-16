@@ -4,3 +4,5 @@
 build/
 # data folder
 data/
+#hydra files
+outputs/

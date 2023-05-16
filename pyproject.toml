@@ -8,9 +8,14 @@ packages = [{include = "fast_ai_notebooks"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-duckduckgo-search = "^2.9.5"
 fastai = "^2.7.12"
 jupyter = "^1.0.0"
+hydra-core = "^1.3.2"
+bing-image-downloader = "^1.1.2"
+duckduckgo-search = "^2.9.5"
+fastbook = "^0.0.29"
+gradio = "^3.30.0"
+nbdev = "^2.3.12"
 
 
 [build-system]
