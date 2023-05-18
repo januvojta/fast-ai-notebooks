@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fast-ai-notebooks"
+  site-url: "https://januvojta.github.io/fast-ai-notebooks"
+  description: """"
+  repo-branch: main
+  repo-url: "https://github.com/januvojta/fast-ai-notebooks"

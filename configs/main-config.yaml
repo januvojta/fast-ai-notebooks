@@ -1,4 +1,6 @@
-data:
-  path: data/
+learning_data:
+  path: data/learning/
+test_data:
+  path: data/test/
 model:
   path: models/
